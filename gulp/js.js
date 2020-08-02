@@ -9,7 +9,6 @@ gulp.task("js", function () {
     }))
     .pipe(minify({
       ext: {
-        src: '-debug.js',
         min: '.js'
       },
       exclude: ['tasks']

@@ -1,4 +1,4 @@
-{  
+{
   "name": "time-out",
   "version": "0.0.0",
   "description": "плагин для браузера Chrome",
@@ -27,5 +27,6 @@
     "gulp-webp": "^4.0.1",
     "posthtml-include": "^1.2.0",
     "require-dir": "^1.2.0"
-  }
+  },
+  "dependencies": {}
 }
