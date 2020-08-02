@@ -1,7 +1,7 @@
-{
-  "name": "test",
-  "version": "2.2.3",
-  "description": "test",
+{  
+  "name": "time-out",
+  "version": "0.0.0",
+  "description": "плагин для браузера Chrome",
   "scripts": {
     "start": "gulp"
   },
